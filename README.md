@@ -13,6 +13,7 @@ The system uses a GSM module to communicate via SMS, and users can configure thr
 
 ---
 **Block Diagram:**
+
 ![image](https://github.com/user-attachments/assets/408224df-b09d-43e7-a73c-774c6e100025)
 
 
